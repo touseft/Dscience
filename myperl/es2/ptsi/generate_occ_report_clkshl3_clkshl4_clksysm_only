@@ -1,0 +1,31 @@
+mkdir reports_sorted_occ_clkshl3_clkshl4_clksysm_only
+
+cd reports_sorted_occ_clkshl3_clkshl4_clksysm_only
+ln -s ../reports/sort/*clkshl3* .
+ln -s ../reports/sort/*clkshl4* .
+ln -s ../reports/sort/*clksysm* .
+
+cat *.txt > filtered.rpt
+
+ln -s filtered.rpt clkshl3.rpt
+ln -s filtered.rpt clkshl4.rpt
+ln -s filtered.rpt clksysm.rpt
+
+/home/tousef/myperl/es2/ptsi/cmd_clkshl3_1 &
+/home/tousef/myperl/es2/ptsi/cmd_clkshl3_2 &
+/home/tousef/myperl/es2/ptsi/cmd_clkshl3_3 &
+/home/tousef/myperl/es2/ptsi/cmd_clkshl3_4 &
+
+/home/tousef/myperl/es2/ptsi/cmd_clkshl4_1 &
+/home/tousef/myperl/es2/ptsi/cmd_clkshl4_2 &
+/home/tousef/myperl/es2/ptsi/cmd_clkshl4_3 &
+/home/tousef/myperl/es2/ptsi/cmd_clkshl4_4 &
+
+/home/tousef/myperl/es2/ptsi/cmd_clksysm_1 &
+
+
+
+
+ 
+
+

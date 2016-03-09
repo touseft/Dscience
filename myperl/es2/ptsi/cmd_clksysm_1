@@ -1,0 +1,17 @@
+
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_24  occ_block_24 clksysm.rpt > occ_block_24.occ_block_24.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_24  occ_block_26 clksysm.rpt > occ_block_24.occ_block_26.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_24  occ_block_27 clksysm.rpt > occ_block_24.occ_block_27.txt
+
+
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_26  occ_block_24 clksysm.rpt > occ_block_26.occ_block_24.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_26  occ_block_26 clksysm.rpt > occ_block_26.occ_block_26.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_26  occ_block_27 clksysm.rpt > occ_block_26.occ_block_27.txt
+
+
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_27  occ_block_24 clksysm.rpt > occ_block_27.occ_block_24.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_27  occ_block_26 clksysm.rpt > occ_block_27.occ_block_26.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_27  occ_block_27 clksysm.rpt > occ_block_27.occ_block_27.txt
+
+
+

@@ -1,0 +1,5 @@
+~tousef/myperl/get_arrival_clock_point_count.pl < occ_block_24.occ_block_24.txt | sort | uniq -c | sort +1n > clock_common_occ_block_24.occ_block_24.txt
+~tousef/myperl/get_arrival_clock_point_count.pl < occ_block_24.occ_block_26.txt | sort | uniq -c | sort +1n > clock_common_occ_block_24.occ_block_26.txt
+~tousef/myperl/get_arrival_clock_point_count.pl < occ_block_26.occ_block_26.txt | sort | uniq -c | sort +1n > clock_common_occ_block_26.occ_block_26.txt
+~tousef/myperl/get_arrival_clock_point_count.pl < occ_block_27.occ_block_26.txt | sort | uniq -c | sort +1n > clock_common_occ_block_27.occ_block_26.txt
+

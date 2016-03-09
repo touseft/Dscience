@@ -1,0 +1,17 @@
+
+cd reports_sorted_occ
+~tousef/myperl/es2/ptsi/check_file_size.pl
+~tousef/myperl/es2/ptsi/add_slack_stats_2.pl
+grep -h "&&&" occ*.txt | sort -k 6 > tempx
+cat ~tousef/header.txt tempx > SUM.log
+rm tempx
+
+cd ../reports_sorted_occ_clkshl3_clkshl4_clksysm_only 
+~tousef/myperl/es2/ptsi/check_file_size.pl
+~tousef/myperl/es2/ptsi/add_slack_stats_2.pl
+grep -h "&&&" occ*.txt | sort -k 6 > tempx
+cat ~tousef/header.txt tempx > SUM.log
+rm tempx
+
+cd ..
+

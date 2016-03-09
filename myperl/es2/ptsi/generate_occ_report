@@ -1,0 +1,19 @@
+mkdir reports_sorted_occ
+
+cd reports_sorted_occ
+ln -s ../reports/holdfix* clkshl3.rpt
+ln -s ../reports/holdfix* clkshl4.rpt
+ln -s ../reports/holdfix* clksysm.rpt
+
+/home/tousef/myperl/es2/ptsi/cmd_clkshl3_1 &
+/home/tousef/myperl/es2/ptsi/cmd_clkshl3_2 &
+/home/tousef/myperl/es2/ptsi/cmd_clkshl3_3 &
+/home/tousef/myperl/es2/ptsi/cmd_clkshl3_4 &
+
+/home/tousef/myperl/es2/ptsi/cmd_clkshl4_1 &
+/home/tousef/myperl/es2/ptsi/cmd_clkshl4_2 &
+/home/tousef/myperl/es2/ptsi/cmd_clkshl4_3 &
+/home/tousef/myperl/es2/ptsi/cmd_clkshl4_4 &
+
+/home/tousef/myperl/es2/ptsi/cmd_clksysm_1 &
+

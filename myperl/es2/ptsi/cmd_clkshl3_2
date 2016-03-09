@@ -1,0 +1,71 @@
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_10  occ_block_6 clkshl3.rpt > occ_block_10.occ_block_6.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_10  occ_block_7 clkshl3.rpt > occ_block_10.occ_block_7.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_10  occ_block_8 clkshl3.rpt > occ_block_10.occ_block_8.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_10  occ_block_9 clkshl3.rpt > occ_block_10.occ_block_9.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_10 occ_block_10 clkshl3.rpt > occ_block_10.occ_block_10.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_10 occ_block_11 clkshl3.rpt > occ_block_10.occ_block_11.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_10 occ_block_12 clkshl3.rpt > occ_block_10.occ_block_12.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_10 occ_block_13 clkshl3.rpt > occ_block_10.occ_block_13.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_10 occ_block_14 clkshl3.rpt > occ_block_10.occ_block_14.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_10 occ_block_15 clkshl3.rpt > occ_block_10.occ_block_15.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_10 occ_block_16 clkshl3.rpt > occ_block_10.occ_block_16.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_10 occ_block_17 clkshl3.rpt > occ_block_10.occ_block_17.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_10 occ_block_18 clkshl3.rpt > occ_block_10.occ_block_18.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_10 occ_block_19 clkshl3.rpt > occ_block_10.occ_block_19.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_10 occ_block_20 clkshl3.rpt > occ_block_10.occ_block_20.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_10 occ_block_21 clkshl3.rpt > occ_block_10.occ_block_21.txt
+
+
+
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_11  occ_block_6 clkshl3.rpt > occ_block_11.occ_block_6.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_11  occ_block_7 clkshl3.rpt > occ_block_11.occ_block_7.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_11  occ_block_8 clkshl3.rpt > occ_block_11.occ_block_8.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_11  occ_block_9 clkshl3.rpt > occ_block_11.occ_block_9.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_11 occ_block_10 clkshl3.rpt > occ_block_11.occ_block_10.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_11 occ_block_11 clkshl3.rpt > occ_block_11.occ_block_11.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_11 occ_block_12 clkshl3.rpt > occ_block_11.occ_block_12.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_11 occ_block_13 clkshl3.rpt > occ_block_11.occ_block_13.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_11 occ_block_14 clkshl3.rpt > occ_block_11.occ_block_14.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_11 occ_block_15 clkshl3.rpt > occ_block_11.occ_block_15.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_11 occ_block_16 clkshl3.rpt > occ_block_11.occ_block_16.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_11 occ_block_17 clkshl3.rpt > occ_block_11.occ_block_17.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_11 occ_block_18 clkshl3.rpt > occ_block_11.occ_block_18.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_11 occ_block_19 clkshl3.rpt > occ_block_11.occ_block_19.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_11 occ_block_20 clkshl3.rpt > occ_block_11.occ_block_20.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_11 occ_block_21 clkshl3.rpt > occ_block_11.occ_block_21.txt
+
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_12  occ_block_6 clkshl3.rpt > occ_block_12.occ_block_6.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_12  occ_block_7 clkshl3.rpt > occ_block_12.occ_block_7.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_12  occ_block_8 clkshl3.rpt > occ_block_12.occ_block_8.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_12  occ_block_9 clkshl3.rpt > occ_block_12.occ_block_9.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_12 occ_block_10 clkshl3.rpt > occ_block_12.occ_block_10.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_12 occ_block_11 clkshl3.rpt > occ_block_12.occ_block_11.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_12 occ_block_12 clkshl3.rpt > occ_block_12.occ_block_12.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_12 occ_block_13 clkshl3.rpt > occ_block_12.occ_block_13.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_12 occ_block_14 clkshl3.rpt > occ_block_12.occ_block_14.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_12 occ_block_15 clkshl3.rpt > occ_block_12.occ_block_15.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_12 occ_block_16 clkshl3.rpt > occ_block_12.occ_block_16.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_12 occ_block_17 clkshl3.rpt > occ_block_12.occ_block_17.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_12 occ_block_18 clkshl3.rpt > occ_block_12.occ_block_18.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_12 occ_block_19 clkshl3.rpt > occ_block_12.occ_block_19.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_12 occ_block_20 clkshl3.rpt > occ_block_12.occ_block_20.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_12 occ_block_21 clkshl3.rpt > occ_block_12.occ_block_21.txt
+
+
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_13  occ_block_6 clkshl3.rpt > occ_block_13.occ_block_6.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_13  occ_block_7 clkshl3.rpt > occ_block_13.occ_block_7.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_13  occ_block_8 clkshl3.rpt > occ_block_13.occ_block_8.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_13  occ_block_9 clkshl3.rpt > occ_block_13.occ_block_9.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_13 occ_block_10 clkshl3.rpt > occ_block_13.occ_block_10.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_13 occ_block_11 clkshl3.rpt > occ_block_13.occ_block_11.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_13 occ_block_12 clkshl3.rpt > occ_block_13.occ_block_12.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_13 occ_block_13 clkshl3.rpt > occ_block_13.occ_block_13.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_13 occ_block_14 clkshl3.rpt > occ_block_13.occ_block_14.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_13 occ_block_15 clkshl3.rpt > occ_block_13.occ_block_15.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_13 occ_block_16 clkshl3.rpt > occ_block_13.occ_block_16.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_13 occ_block_17 clkshl3.rpt > occ_block_13.occ_block_17.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_13 occ_block_18 clkshl3.rpt > occ_block_13.occ_block_18.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_13 occ_block_19 clkshl3.rpt > occ_block_13.occ_block_19.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_13 occ_block_20 clkshl3.rpt > occ_block_13.occ_block_20.txt
+~tousef/myperl/es2/ptsi/format_ptsi_report_same_occ.pl occ_block_13 occ_block_21 clkshl3.rpt > occ_block_13.occ_block_21.txt
+
